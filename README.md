@@ -8,3 +8,6 @@
 
 # Old Fortune Teller
 ![ForTu](https://github.com/phoenixen/ForTu/blob/main/Screenshot_1625649412.png)
+
+# LIBRARY
+mailer: ^5.0.1
