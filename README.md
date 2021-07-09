@@ -1,16 +1,13 @@
-# flutter_application_3
+# Fortune Teller 
 
-A new Flutter project.
+# V2
 
-## Getting Started
+# New Fortune Teller
+![ForTu](https://github.com/phoenixen/ForTu/blob/main/Screenshot_1625824079.png)
+![ForTu](https://github.com/phoenixen/ForTu/blob/main/Screenshot_1625824089.png)
 
-This project is a starting point for a Flutter application.
+# Old Fortune Teller
+![ForTu](https://github.com/phoenixen/ForTu/blob/main/Screenshot_1625649412.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# LIBRARY
+mailer: ^5.0.1
