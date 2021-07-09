@@ -16,7 +16,7 @@ sendMessage() async {
   // Create our message.
   final message = Message()
     ..from = Address(username, 'Fortune Teller')
-    ..recipients.add('enginbatin245@gmail.com')
+    ..recipients.add('developer@gmail.com')
     //..ccRecipients.addAll(['destCc1@example.com', 'destCc2@example.com'])
     //..bccRecipients.add(Address('bccAddress@example.com'))
     ..subject = title.text
